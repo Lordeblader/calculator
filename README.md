@@ -1,8 +1,8 @@
-# Advanced calculator app
+# Calculator
 
 **JUST A PERSONAL PROJECT FOR PRACTICE. MAY GIVE INCORRECT ANSWERS. ALWAYS VERIFY THE ANSWER!!**
 
-Simple calculator made in Dart with some advanced functions. Uses a custom parser.
+Simple calculator made in Dart with some functions. Uses a custom parser.
 
 ## Overview
 
