@@ -72,6 +72,6 @@ $ dart main.dart asin(2 - 1.5) + arcsine(0.5)
 ## TODO
 
 - Print the operations step by step.
-- Fix important issues with sqrt index argument, which does not appear to accept groups inside the sqrt index.
+- Fix important issues with sqrt index argument, which can not parse correctly a gorup inside the sqrt index.
 - Implement logarithm base argument.
 - Implement custom functions and constants
