@@ -1,4 +1,4 @@
-import 'package:advanced_calculator/calculator/operand.dart';
+import 'operand.dart';
 
 class OperandGroup extends Operand {
 

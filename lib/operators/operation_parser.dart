@@ -1,7 +1,6 @@
-import 'package:advanced_calculator/calculator/operand.dart';
-import 'package:advanced_calculator/calculator/operand_group_sqrt.dart';
-
+import 'operand.dart';
 import 'operand_group.dart';
+import 'operand_group_sqrt.dart';
 import 'operation_token.dart';
 
 class OperationParser {
