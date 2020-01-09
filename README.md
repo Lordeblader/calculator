@@ -62,7 +62,7 @@ $ dart main.dart 1 +-- 6
 $ dart main.dart logarithm(5)
 1.6094379124341003
 
-$ dart main.dart log0.2
+$ dart main.dart log.2
 -1.6094379124341003
 
 $ dart main.dart asin(2 - 1.5) + arcsine(0.5)
